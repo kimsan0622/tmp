@@ -3,3 +3,4 @@ sentencepiece
 nltk
 rouge-score
 gcsfs
+protobuf<=3.20.0
